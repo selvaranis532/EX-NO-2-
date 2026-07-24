@@ -105,5 +105,5 @@ int main(){
 <img width="1412" height="667" alt="Screenshot 2026-07-24 094742" src="https://github.com/user-attachments/assets/84b1f181-705e-4618-9db9-cc1773fdfc0d" />
 
 ## Result :
-Thus, the C program to implement the Playfair Cipher encryption technique was successfully developed and executed. The plaintext was encrypted using the given keyword by generating a 5×5 key matrix and applying the Playfair cipher rules. The corresponding ciphertext was obtained correctly.
+Thus the implementation of Playfair Substitution technique had been executed successfully.
 
